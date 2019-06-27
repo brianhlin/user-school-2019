@@ -27,6 +27,9 @@ pages:
     - Hotel information:          logistics/hotel.md
     - Local transportation:       logistics/local-transportation.md
     - School location:            logistics/location.md
+  - Materials:
+    - Tuesday Exercises:
+      - Exercise 1.1:             materials/day2/part1-ex1-troubleshooting.md
 
 markdown_extensions:
   - admonition
